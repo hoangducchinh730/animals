@@ -3,3 +3,6 @@ elephant
 dolphin
 cat
 dog
+pig 
+bird
+
